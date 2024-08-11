@@ -11970,4 +11970,28 @@ body {
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
   color: white;
+}
+
+.border {
+  border: 1px solid white;
+}
+
+.testimonies__card {
+  color: oldlace;
+  width: 90%;
+  margin: 0 auto;
+}
+.testimonies__paragraph {
+  font-style: italic;
+  width: 90%;
+  height: 25vh;
+}
+.testimonies__img {
+  width: 4rem;
+  height: 4rem;
+  border: 1px solid white;
+  border-radius: 50%;
+}
+.testimonies__name {
+  font-weight: 700;
 }/*# sourceMappingURL=main.css.map */
