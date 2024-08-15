@@ -1,3 +1,15 @@
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
 
-@import "base/_base.scss";
+@import "base/base";
+
+@import "components/border";
+@import "components/cards";
+@import "components/carousel";
+@import "components/links";
+@import "components/titles";
+
+@import "layout/forms";
+@import "layout/navbar";
+@import "layout/presentation";
+
+@import "pages/testimonies";
