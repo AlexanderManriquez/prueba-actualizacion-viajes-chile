@@ -12028,6 +12028,10 @@ body {
   margin-left: 0.5rem;
 }
 
+.modal-body, .modal-header {
+  color: black;
+}
+
 .titulo, .testimonies__title {
   font-weight: 700;
 }
