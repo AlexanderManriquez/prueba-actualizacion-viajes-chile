@@ -1,0 +1,21 @@
+.testimonies {
+    &__card{
+        color: #e7c483;
+        width: 90%;
+        margin: 0 auto;
+    }
+    &__paragraph {
+        font-style: italic;
+        width: 90%;
+        height: 25vh;
+    }
+    &__img {
+        width: 4rem;
+        height: 4rem;
+        border: 1px solid white;
+        border-radius: 50%;
+    }
+    &__name {
+        font-weight: 700;
+    }
+}
